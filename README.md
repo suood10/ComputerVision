@@ -23,3 +23,7 @@ Following the image processing steps outlined previously, the subsequent stage o
 
 `pip install -r requirements.txt  # install`
 
+By leveraging the dataset sourced from Roboflow, our focus shifts to training the model effectively. This pivotal training phase involves the execution of a specific code, allowing us to harness the potential of the dataset. Through this code, we initiate the intricate process of model training: 
+
+
+`python3 train.py --data (path to yolov5.yaml)`
