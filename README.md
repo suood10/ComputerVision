@@ -14,7 +14,7 @@ The next pivotal step involved the amalgamation of these augmented frames and an
 
 ### YOLO
 after processing the images as described in the step before, the next phase of the process includes the downloading of yolov5 on tyour computer using the follwoing code on your teminal: 
-`git clone https://github.com/ultralytics/yolov5  # clone
-cd yolov5
-pip install -r requirements.txt  # install`
+`git clone https://github.com/ultralytics/yolov5  # clone`
+`cd yolov5`
+`pip install -r requirements.txt  # install`
 
