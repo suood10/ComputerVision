@@ -30,5 +30,5 @@ By leveraging the dataset sourced from Roboflow, our focus shifts to training th
 
 At this stage, it is essential to assess the accuracy and effectiveness of our model in real-world scenarios. This evaluation involves testing the model's capability to identify objects within novel frames that were not part of the original dataset. To achieve this validation, we employ a specific set of instructions encoded in the following code: 
 
-`python detect.py --weights (path to trained model) --source (path to new dataset)`
+`python3 detect.py --weights (path to trained model) --source (path to new dataset)`
 
