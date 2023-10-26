@@ -15,7 +15,7 @@ The next pivotal step involved the amalgamation of these augmented frames and an
 YOLOv5 is designed to be run in the following up-to-date verified environments (with all dependencies including CUDA/CUDNN, Python and PyTorch preinstalled).
 
 ### YOLO
-after processing the images as described in the step before, the next phase of the process includes the downloading of yolov5 on tyour computer using the follwoing code on your teminal: 
+Following the image processing steps outlined previously, the subsequent stage of the process involves the installation of YOLOv5 on your computer. This installation is accomplished by executing the following code in your terminal:
 
 `git clone https://github.com/ultralytics/yolov5  # clone` 
 
